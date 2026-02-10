@@ -30,7 +30,7 @@ Unityの機能を「表示」に限定し、裏側の計算は純粋なC#ロジ�
 
 ## 4. 開発環境
 * **言語**: C#
-* **プラットフォーム**: Unity 2022.3.x / Visual Studio 2026
+* **プラットフォーム**: Unity 6.3 / Visual Studio 2026
 * **主要コンポーネント**: TextMeshPro, UI Slider
 
 ---
